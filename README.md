@@ -64,7 +64,7 @@ A full-featured property management desktop application covering every aspect of
 ## Screenshots
 
 ### Dashboard — Live Overview
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.jpg)
 *Real-time property status: 31 units, 25 occupied, 29 tenants, 25 active contracts. Alerts for expiring leases, bounced cheques, and pending refunds.*
 
 ---
