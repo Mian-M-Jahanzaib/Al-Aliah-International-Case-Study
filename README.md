@@ -91,6 +91,18 @@ The application's data model is complex — units, tenants, contracts, and payme
 
 ---
 
+## Client Testimonial
+
+![Client review on Upwork](./screenshots/client-review.png)
+
+> "⭐⭐⭐⭐⭐ I had a great experience working with Jahanzaib. I hired him to develop customized property management software according to our specific business requirements, and he did an excellent job. He understood our needs very well and delivered software that is professional, user-friendly, efficient, and extremely helpful for our daily property management operations. He was also very cooperative, responsive, and professional throughout the entire development process. I’m very satisfied with the final result and truly appreciate the effort and quality of his work. Highly recommended to anyone looking for reliable and customized software development!"
+> — Admin Manager, Al Aliah International (via Upwork)
+
+- [See verified review on my Upwork profile](https://www.upwork.com/freelancers/~0156dbf67a8031770f)
+- [See the review on LinkedIn](https://lnkd.in/p/d-iBnbE3)
+
+---
+
 ## What I Learned
 
 This was my first fully independent client project — from initial requirements gathering through to production deployment. Key takeaways:
